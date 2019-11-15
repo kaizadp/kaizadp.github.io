@@ -1,7 +1,5 @@
 Publications
 ================
-Kaizad Patel
-11/14/2019
 
 ## R Markdown
 

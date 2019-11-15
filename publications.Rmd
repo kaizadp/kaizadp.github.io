@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Publications"
-author: "Kaizad Patel"
-date: "11/14/2019"
 output: github_document
 ---
 
