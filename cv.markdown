@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Title"
+title: "CV title"
 date: 2019-11-14
 ---
 
