@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "CV title"
 date: 2019-11-14
 ---
