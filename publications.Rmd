@@ -7,7 +7,7 @@ output: github_document
 ### 2019	
 
 
-Contosta, A.R., Casson, N.J., Garlick, S., Nelson, S.J., Ayres, M.P., Burakowski, E.A., Campbell, J., Creed, I., Eimers, C., Evans, C., Fernandez, I., Fuss, C., Huntington, T., **Patel, K.F.**, Sanders‐DeMott, R., Son, K., Templer, P., and Thornbrugh, C. Northern forest winters have lost cold, snowy conditions that are important for ecosystems and human communities. Ecol. Appl. 29: 1–24. [DOI: 10.1002/eap.1974] (https://doi.org/10.1002/eap.1974).
+Contosta, A.R., Casson, N.J., Garlick, S., Nelson, S.J., Ayres, M.P., Burakowski, E.A., Campbell, J., Creed, I., Eimers, C., Evans, C., Fernandez, I., Fuss, C., Huntington, T., **Patel, K.F.**, Sanders‐DeMott, R., Son, K., Templer, P., and Thornbrugh, C. Northern forest winters have lost cold, snowy conditions that are important for ecosystems and human communities. Ecol. Appl. 29: 1–24. [DOI: 10.1002/eap.1974](https://doi.org/10.1002/eap.1974).
 
 Salvino, C.J., **Patel, K.F.**, Fernandez, I.J., Gruselle, M.-C., Tatariw, C., and MacRae, J.D. 2019. Phosphorus Limits Nitrogen Dynamics in the O Horizon of a Forested Watershed in Maine, USA. Soil Sci. Soc. Am. J. 83: 1209. [doi:10.2136/sssaj2019.02.0043](https://doi.org/10.2136/sssaj2019.02.0043).
 
