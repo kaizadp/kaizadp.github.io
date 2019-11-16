@@ -28,17 +28,17 @@
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+	      <li><a href="/">Home</a></li>
 	      <li><a href="/about">About</a></li>
-        {% endif %}
+	      <li><a href="/appointments">Education & Appointments</a></li>
+	      <li><a href="/publications">Publications</a></li> 
+	      <li><a href="/presentations">Presentations</a></li>
+	      <li><a href="/teaching">Teaching</a></li>        
+	{% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/appointments">Education & Appointments</a></li>
-				<li><a href="/publications">Publications</a></li>  
-				<li><a href="/presentations">Presentations</a></li>
-				<li><a href="/teaching">Teaching</a></li>
+          
         </ul>
         {% endif %}
       </header>
