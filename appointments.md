@@ -1,15 +1,15 @@
 
 ### Education
 
-**Ph. D., Ecology and Environmental Science — Forest Soils** *2018*  
+**Ph. D., Ecology and Environmental Science — Forest Soils** (2018)  
 University of Maine, School of Forest Resources  
 Dissertation: Nitrogen cycling during a period of environmental change
 
-**Master of Environmental Studies — Earth Science** *2013*  
+**Master of Environmental Studies — Earth Science** (2013)  
 University of Pennsylvania, School of Arts and Sciences  
 Capstone: Distribution of soils in the Luquillo Mountains of Puerto Rico
 
-**Bachelor of Pharmacy** *2011*  
+**Bachelor of Pharmacy** (2011)  
 University of Mumbai, Bombay College of Pharmacy
 
 -----
