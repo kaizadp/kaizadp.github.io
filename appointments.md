@@ -1,80 +1,54 @@
-Appointments
-================
 
 ### Education
 
-**Ph. D., Ecology and Environmental Science — Forest Soils**  
-2018  
+**Ph. D., Ecology and Environmental Science — Forest Soils** *2018*  
 University of Maine, School of Forest Resources  
 Dissertation: Nitrogen cycling during a period of environmental change
 
-**Master of Environmental Studies — Earth Science**
-
-2013
-
-University of Pennsylvania, School of Arts and Sciences
-
+**Master of Environmental Studies — Earth Science** *2013*  
+University of Pennsylvania, School of Arts and Sciences  
 Capstone: Distribution of soils in the Luquillo Mountains of Puerto Rico
 
-**Bachelor of Pharmacy**
-
-2011
-
+**Bachelor of Pharmacy** *2011*  
 University of Mumbai, Bombay College of Pharmacy
+
+-----
 
 ### Appointments
 
-**Postdoctoral Research Associate**
-
-*Pacific Northwest National Laboratory*
-
+**Postdoctoral Research Associate**  
+*Pacific Northwest National Laboratory*  
 2019-present
 
-**Researcher**
-
-*School of Food and Agriculture, University of Maine*
-
+**Researcher**  
+*School of Food and Agriculture, University of Maine*  
 2018
 
-**Adjunct Faculty**
-
-*School of Food and Agriculture, University of Maine*
-
+**Adjunct Faculty**  
+*School of Food and Agriculture, University of Maine*  
 2018
 
-**Adjunct Faculty**
-
-*School of Biology and Ecology, University of Maine*
-
+**Adjunct Faculty**  
+*School of Biology and Ecology, University of Maine*  
 2018
 
-**Adjunct Faculty**
-
-*Kennebec Valley Community College*
-
+**Adjunct Faculty**  
+*Kennebec Valley Community College*  
 2018
 
-**Graduate Research Assistant**
-
-*University of Maine*; *Bear Brook Watershed in Maine (BBWM)*
-
+**Graduate Research Assistant**  
+*University of Maine*; *Bear Brook Watershed in Maine (BBWM)*  
 2013-2018
 
-**Graduate Teaching Assistant**
-
-*University of Maine*
-
+**Graduate Teaching Assistant**  
+*University of Maine*  
 2013-2018
 
-**Instructor**
-
-*School of Forest Resources, University of Maine*
-
+**Instructor**  
+*School of Forest Resources, University of Maine*  
 2017
 
-**Graduate Research Assistant**
-
+**Graduate Research Assistant**  
 *University of Pennsylvania*; *Luquillo Critical Zone Observatory
-(LCZO)*
-
+(LCZO)*  
 2012-2013
