@@ -5,45 +5,46 @@ output: github_document
 ---
 
 ### 2019
-AGU1
+**Patel K.F.**, Norris C.G., Bailey V.L., Zheng J., Bond-Lamberty B., Myers-Pigg A., Fansler, S.J., Rod, K.A. Soil carbon dynamics during a hysteretic drying-rewetting event. Upcoming poster at *American Geophysical Union Fall Meeting*. San Francisco, CA. (December)
 
-AGU2
 
-SFS
+**Patel K.F.**, Fernandez I.J., Gruselle M.C., Norton S.A., Nelson S.J., Weiskittel A. The Bear Brook Watershed in Maine: Three decades of chronic N enrichment and recovery. Upcoming poster at *American Geophysical Union Fall Meeting*. San Francisco, CA. (December)
+
+Norton S.A., Fernandez I.J., Nelson S.J., **Patel K.F.**. Trajectories of recovery from acid rain over 31 years (amnbient) and 2 years (experimental) at the Bear Brook Watershed in Maine. Presented at *Society of Freshwater Science Annual Meeting*. Salt Lake City, UT. (May)
 
 ### 2018
 
-Patel K.F., Fernandez I.J., Gruselle M., Norton S.A., Nelson, S.J. & Weiskittel A. Multi-decadal evolution of nitrogen dynamics at the Bear Brook Watershed in Maine. Poster presented at North American Forest Soils Conference. Quebec City, Canada. (June)
+**Patel K.F.**, Fernandez I.J., Gruselle M., Norton S.A., Nelson, S.J. & Weiskittel A. Multi-decadal evolution of nitrogen dynamics at the Bear Brook Watershed in Maine. Poster presented at *North American Forest Soils Conference*. Quebec City, Canada. (June)
 
 ### 2017	
 
-Patel K.F., Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Soil biogeochemistry in a changing climate: A snow removal experiment in Maine. Presented at BIOGEOMON. Litomyšl, Czech Republic. (August)
+**Patel K.F.**, Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Soil biogeochemistry in a changing climate: A snow removal experiment in Maine. Presented at *BIOGEOMON*. Litomyšl, Czech Republic. (August)
 
-Patel K.F., Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Soil N response to a changing climate: A snow removal experiment in Maine. Presented at the Northeastern Ecosystem Research Cooperative Meeting. Saratoga Springs, NY. (March)
+**Patel K.F.**, Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Soil N response to a changing climate: A snow removal experiment in Maine. Presented at the *Northeastern Ecosystem Research Cooperative Meeting*. Saratoga Springs, NY. (March)
 
 ### 2016	
 
-Patel K.F., Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Soil biogeochemistry in a changing climate: Effect of snow removal. Poster presented at the American Geophysical Union Annual Meeting. San Francisco, CA. (December)
+**Patel K.F.**, Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Soil biogeochemistry in a changing climate: Effect of snow removal. Poster presented at the *American Geophysical Union Annual Meeting*. San Francisco, CA. (December)
 
-Patel K.F., Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Soil biogeochemistry in a changing climate: Effect of snowpack loss. Poster presented at the National Cooperative Soil Survey (Northeast Region) Annual Meeting. Lake Placid, NY. (June)
+**Patel K.F.**, Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Soil biogeochemistry in a changing climate: Effect of snowpack loss. Poster presented at the *National Cooperative Soil Survey (Northeast Region) Annual Meeting*. Lake Placid, NY. (June)
 
-Patel K.F., Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Nutrient dynamics in a changing climate: How does a decreasing snowpack influence soil biogeochemistry? Presented at the Maine Sustainability and Water Conference. Augusta, ME. (March)
+**Patel K.F.**, Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Nutrient dynamics in a changing climate: How does a decreasing snowpack influence soil biogeochemistry? Presented at the *Maine Sustainability and Water Conference*. Augusta, ME. (March)
 
 ### 2015	
 
-Patel K.F., Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Effect of snow removal on soil biogeochemistry. Presented at the ASA-CSSA-SSSA International Meetings. Minneapolis, MN. (November)
+**Patel K.F.**, Tatariw C., Fernandez I.J., MacRae J.D. & Ohno T. Effect of snow removal on soil biogeochemistry. Presented at the *ASA-CSSA-SSSA International Meetings*. Minneapolis, MN. (November)
 
 
-Tatariw C., Patel K.F., MacRae J.D, Fernandez I.J. & Simon K. The effect of snow removal on litter macroinvertebrate community composition. Poster presented at the Entomological Society of America Annual Meeting. Minneapolis, MN. (November)
+Tatariw C., **Patel K.F.**, MacRae J.D, Fernandez I.J. & Simon K. The effect of snow removal on litter macroinvertebrate community composition. Poster presented at the *Entomological Society of America Annual Meeting*. Minneapolis, MN. (November)
 
-Patel K.F. & Fernandez I.J. Is there a changing climatology at the Bear Brook Watershed in Maine? Poster presented at the Northeastern Ecosystem Research Cooperative Meeting. Saratoga Springs, NY. (March)
+**Patel K.F.** & Fernandez I.J. Is there a changing climatology at the Bear Brook Watershed in Maine? Poster presented at the *Northeastern Ecosystem Research Cooperative Meeting*. Saratoga Springs, NY. (March)
 
-Patel K.F. & Fernandez I.J. Climatic Trends at the Bear Brook Watershed in Maine — Biogeochemistry of the vernal transition. Poster presented at the Freshwater Science Symposium. University of Maine, Orono, ME. (January)
+**Patel K.F.** & Fernandez I.J. Climatic Trends at the Bear Brook Watershed in Maine — Biogeochemistry of the vernal transition. Poster presented at the *Freshwater Science Symposium*. University of Maine, Orono, ME. (January)
 
 ### 2014	
 
-Patel K.F. & Fernandez I.J. Climatic Trends at the Bear Brook Watershed in Maine — Biogeochemistry of the vernal transition. Poster presented at BIOGEOMON. Bayreuth, Germany. (July)
+**Patel K.F.** & Fernandez I.J. Climatic Trends at the Bear Brook Watershed in Maine — Biogeochemistry of the vernal transition. Poster presented at BIOGEOMON. Bayreuth, Germany. (July)
 
 ### 2013	
 
-Patel K.F., Scatena F.N. & Johnson A.H. Texture analysis of surface soils in the Luquillo mountains of northeastern Puerto Rico. Poster presented at the Geological Society of America — Southeastern Section Meeting. San Juan, PR. (March)
+**Patel K.F.**, Scatena F.N. & Johnson A.H. Texture analysis of surface soils in the Luquillo mountains of northeastern Puerto Rico. Poster presented at the Geological Society of America — Southeastern Section Meeting. San Juan, PR. (March)
