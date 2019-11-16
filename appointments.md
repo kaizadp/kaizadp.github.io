@@ -3,9 +3,10 @@ Appointments
 
 ### Education
 
-**Ph. D., Ecology and Environmental Science — Forest Soils** 2018  
-University of Maine, School of Forest Resources Dissertation: Nitrogen
-cycling during a period of environmental change
+**Ph. D., Ecology and Environmental Science — Forest Soils**  
+2018  
+University of Maine, School of Forest Resources  
+Dissertation: Nitrogen cycling during a period of environmental change
 
 **Master of Environmental Studies — Earth Science**
 
