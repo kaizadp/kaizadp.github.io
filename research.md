@@ -17,38 +17,13 @@ Human activities increased the amount of reactive N in the environment
 in the twentiest century, and temperate forests have been showing signs
 of N enrichment and saturation. The Bear Brook Watershed in Maine, USA
 (BBWM) is one of the longest running forested watershed manipulations
-studying the effects of chronic nitrogen (N) and sulfur (S) enrichment
-and environmental change on forest ecosystem processes. Over the last
-three decades, research has been conducted on soil, stream, and
-vegetation response to the manipulation and ambient changes in the
-physical and chemical environment. Long-term monitoring included
-hydrology, stream chemistry, quantitative soil sampling, biomass and
-vegetation nutrient inventories. Current research is focusing on
-understanding the biotic and abiotic character of recovery to
-acidification in a changing climate. The study has demonstrated the
-importance of long-term research showing that multi-year and
-multi-decadal responses can yield different outcomes.
-
-``` 
-**Relevant publications**  
-```
-
-Salvino, C.J., Patel, K.F., Fernandez, I.J., Gruselle, M.-C., Tatariw,
-C., and MacRae, J.D. 2019. Phosphorus Limits Nitrogen Dynamics in the O
-Horizon of a Forested Watershed in Maine, USA. *Soil Science Society of
-America Journal*.
-[doi:10.2136/sssaj2019.02.0043](https://doi.org/10.2136/sssaj2019.02.0043).
-
-Patel, K.F., Fernandez, I.J., Nelson, S.J., Gruselle, M.-C., Norton,
-S.A., and Weiskittel, A.R. 2019. Forest N Dynamics after 25 years of
-Whole Watershed N Enrichment: The Bear Brook Watershed in Maine. *Soil
-Science Society of America Journal*.
-[doi:10.2136/sssaj2018.09.0348](https://doi.org/10.2136/sssaj2018.09.0348).
-
-Patel K.F. & Fernandez I.J. Long-term N mineralization in O horizon
-soils during 27 years of N enrichment at the Bear Brook Watershed in
-Maine, USA. *Environmental Monitoring and Assessment*.
-[doi:10.1007/s10661-018-6945-3](https://doi.org/10.1007/s10661-018-6945-3).
+studying the effects of chronic nitrogen and sulfur enrichment and
+environmental change on forest ecosystem processes. Over the last three
+decades, research has been conducted on soil, stream, and vegetation
+response to the manipulation and ambient changes in the physical and
+chemical environment. Current research is focusing on understanding the
+biotic and abiotic character of recovery to acidification in a changing
+climate.
 
 -----
 
@@ -62,14 +37,3 @@ decline in the duration of winter, the number of snow-covered days, and
 the timing of snowmelt. These projected changes in winter dynamics will
 likely have significant effects on soil biogeochemical processes, which
 extend beyond the snow- melt period.
-
-**Relevant publications**  
-Patel K.F., Tatariw C., MacRae J.D., Ohno T., Nelson S.J. & Fernandez
-I.J. Soil C and N responses to snow removal and concrete frost in a
-coniferous Maine forest. *Canadian Journal of Soil Science*.
-[doi:10.1139/CJSS-2017-0132](https://doi.org/10.1139/CJSS-2017-0132).
-
-Tatariw C., Patel K.F., Fernandez I.J. & MacRae J.D. The effect of
-snowpack loss on soil temperature and moisture. *Northeastern
-Naturalist*.
-[doi:10.1656/045.024.s707](https://doi.org/10.1656/045.024.s707).
