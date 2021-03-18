@@ -1,8 +1,25 @@
 ---
 layout: post
 title: "Publications"
-output: github_document
 ---
+
+### 2021
+
+**Patel K.F.**, Myers-Pigg A., Bond-Lamberty B., Fansler S.J., Norris C.G., McKever S.A., Zheng J., Rod. K.A. & Bailey V.L. "Soil carbon dynamics during drying vs. rewetting: Importance of antecedent moisture conditions." *Soil Biology and Biochemistry*. [doi:10.1016/j.soilbio.2021.108165](https://doi.org/10.1016/j.soilbio.2021.108165)
+
+
+**Patel K.F.**, Tejnecky V., Ohno T., Bailey V.L., Sleighter R.L. & Hatcher P.G.. "Reactive oxygen species alter chemical composition and adsorptive fractionation of soil-derived organic matter." *Geoderma*. [doi:10.1016/j.geoderma.2020.114805](https://doi.org/10.1016/j.geoderma.2020.114805)
+
+
+### 2020
+
+Rod, K.A., **Patel K.F.**, Kumar S., Cantando E., Leng W., Kukkadapu R.K., Qafoku O., Bowden M., Kaplan D.I., Kemner K.M. Dispersible colloid facilitated release of organic carbon from two contrasting riparian sediments. *Frontiers in Water* [doi: 10.3389/frwa.2020.560707](https://doi.org/10.3389/frwa.2020.560707)
+
+**Patel K.F.**, Tatariw C., MacRae J.D., Ohno T., Nelson S.J. & Fernandez I.J. Snowmelt periods as hot moments for soil N dynamics: A case study in Maine, USA. *Environmental Monitoring and Assessment* [doi: 10.1007/s10661-020-08733-0](https://doi.org/10.1007/s10661-020-08733-0)
+
+**Patel K.F.**, Fernandez I.J., Nelson S.J., Malcomb J. & Norton S.A. Contrasting stream nitrate and sulfate response to recovery from experimental watershed acidification. *Biogeochemistry* [doi: 10.1007/s10533-020-00711-5](https://doi.org/10.1007/s10533-020-00711-5)
+
+
 
 ### 2019	
 

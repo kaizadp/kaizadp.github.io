@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Resources"
+---
+
+### ShinySoils
+
+
+### nmrrr
+
+
+### fticrrr
+
+
+### introductoryR
+
+
+### soilpalettes

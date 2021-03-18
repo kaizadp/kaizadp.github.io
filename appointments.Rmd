@@ -1,7 +1,6 @@
 ---
 layout: post
-title: ""
-output: github_document
+title: "About Me"
 ---
 
 

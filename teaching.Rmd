@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Teaching"
-output: github_document
 ---
 
 **PSE 320 Soil Organic Matter Management**  

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Datasets"
+---
+
+
+**Patel KF**, Fernandez IJ, Nelson SJ, Spencer CJ, Norton SA. 2020a. The Bear Brook Watershed in Maine, USA: Long-term atmospheric deposition chemistry 1987 - 2012. *Environmental Data Initiative*. [doi: 10.6073/PASTA/C207D374793DA5168749D460A4933F2F](https://doi.org/10.6073/PASTA/C207D374793DA5168749D460A4933F2F)
+
+**Patel KF**, Fernandez IJ, Nelson SJ, Spencer CJ, Norton SA. 2020b. The Bear Brook Watershed in Maine, USA: Long-term stream chemistry 1986 - 2016. *Environmental Data Initiative*. [doi: 10.6073/PASTA/04d5e1c0533b1e60537530f726876952](https://doi.org/10.6073/PASTA/04d5e1c0533b1e60537530f726876952)
+
+**Patel KF**, Fernandez IJ, Nelson SJ, Spencer CJ, Norton SA. 2020c. The Bear Brook Watershed in Maine, USA: Soil quantitative pit chemistry 1998 - 2010. *Environmental Data Initiative*. [doi: 10.6073/PASTA/D100BA93B45049ED7BC7D81EF9AA9304](https://doi.org/10.6073/PASTA/D100BA93B45049ED7BC7D81EF9AA9304)
+
+**Patel KF**, Fernandez IJ, Nelson SJ, Spencer CJ, Norton SA. 2020d. The Bear Brook Watershed in Maine, USA: Soil moisture record 2003 - 2016. *Environmental Data Initiative*. [doi: 10.6073/PASTA/5D2772E51968230CEEC2242E8990529E](https://doi.org/10.6073/PASTA/5D2772E51968230CEEC2242E8990529E)
+
+**Patel KF**, Fernandez IJ, Nelson SJ, Spencer CJ, Norton SA. 2020e. The Bear Brook Watershed in Maine, USA: The Bear Brook Watershed in Maine, USA: Long-term soil temperature 2001 - 2016. *Environmental Data Initiative*. [doi: 10.6073/PASTA/5d3763b5bf1a7077a7acc2d337f6b094](https://doi.org/10.6073/PASTA/5d3763b5bf1a7077a7acc2d337f6b094)
+
+**Patel KF**, Nelson SJ, Spencer CJ, Fernandez IJ. 2018. Soil temperature record for the Bear Brook Watershed in Maine. *PANGAEA* [doi: 10.1594/PANGAEA.885860](https://doi.org/10.1594/PANGAEA.885860)

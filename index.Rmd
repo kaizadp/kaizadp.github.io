@@ -1,0 +1,37 @@
+---
+title: "Kaizad Patel"
+subtitle: "Soil Scientist"
+image: "images/kaizad_dbdf_pit_gopher_2016.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/kaiz_p"
+  - label: GitHub
+    url: "https://github.com/kaizadp"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=rGy8rsEAAAAJ"
+  - label: ORCID
+    url: "https://orcid.org/0000-0001-6437-7809"
+site: distill::distill_website
+output:
+  postcards::trestles
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+I am a soil scientist studying biogeochemical (carbon and nitrogen) dynamics in terrestrial ecosystems across temporal and spatial scales. 
+My work focuses on soil and ecosystem responses to environmental change and disturbances such as ecosystem acidification, shifting moisture regimes, and warming winters. 
+
+
+### #soilnotdirt
+
+
+------------------------------------------------------------------------
+
+<font size="2">
+Website prepared in 
+[RMarkdown](https://rmarkdown.rstudio.com) using the 
+[distill](https://rstudio.github.io/distill/) and
+[postcards](https://github.com/seankross/postcards) packages.
+
+</font>

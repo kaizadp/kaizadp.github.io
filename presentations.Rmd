@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Presentations"
-output: github_document
 ---
 
 ### 2019
