@@ -39,3 +39,6 @@ vignettes/*.pdf
 .Renviron
 
 _site
+.Rproj.user
+.Rdata
+.DS_Store
