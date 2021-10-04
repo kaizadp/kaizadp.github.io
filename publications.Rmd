@@ -5,25 +5,28 @@ title: "Publications"
 
 ### 2021
 
-**Patel K.F.**, Smith A.P., Bond-Lamberty B., Fansler S.J., Tfaily M.M., Bramer L., Varga T., Bailey V.L. "Spatial access and resource limitations control carbon mineralization in soils". *Soil Biology and Biochemistry*. [doi:10.1016/j.soilbio.2021.108427](https://doi.org/10.1016/j.soilbio.2021.108427)
+**Patel K.F.**, Smith A.P., Bond-Lamberty B., Fansler S.J., Tfaily M.M., Bramer L., Varga T., Bailey V.L. "Spatial access and resource limitations control carbon mineralization in soils". *Soil Biology and Biochemistry*. [doi:10.1016/j.soilbio.2021.108427](https://doi.org/10.1016/j.soilbio.2021.108427). *[VIEW PDF](https://github.com/kaizadp/kaizadp.github.io/blob/master/pdfs/Patel2021_SpatialAccess.pdf)*
 
 
-**Patel K.F.**, Tatariw C., MacRae J.D., Ohno T., Nelson S.J., & Fernandez I.J. "Repeated freeze-thaw cycles increase extractable, but not total, carbon and nitrogen in a Maine coniferous soil". *Geoderma*. [doi:10.1016/j.geoderma.2021.115353](https://doi.org/10.1016/j.geoderma.2021.115353)
+**Patel K.F.**, Tatariw C., MacRae J.D., Ohno T., Nelson S.J., & Fernandez I.J. "Repeated freeze-thaw cycles increase extractable, but not total, carbon and nitrogen in a Maine coniferous soil". *Geoderma*. [doi:10.1016/j.geoderma.2021.115353](https://doi.org/10.1016/j.geoderma.2021.115353). *[VIEW PDF](https://github.com/kaizadp/kaizadp.github.io/blob/master/pdfs/Patel2021_freezethaw_incubation.pdf)*
 
 
-Jian J., Bond-Lamberty B., Hao D., Sulman B.N., **Patel K.F.**, Zheng J., Dorheim K., Pennington S.C., Hartman M.D., Warner D., & Wieder W.R. "Leveraging observed soil heterotrophic respiration fluxes as a novel constraint on global-scale models". *Global Change Biology*. [doi:10.1111/gcb.15795](https://doi.org/10.1111/gcb.15795)
+Jian J., Steele M.K., Zhang L., Bailey V.L., Zheng J., **Patel K.F.**, Bond-Lamberty B. "On the use of air temperature and precipitation as surrogate predictors in soil respiration modelling". *European Journal of Soil Science*. [doi:10.1111/ejss.13149](https://doi.org/10.1111/ejss.13149)
 
 
-**Patel K.F.**, Fansler S.J., Campbell T.P., Bond-Lamberty B., Smith A.P., RoyChowdhury T., McCue L.A., Varga T., & Bailey V.L. "Soil texture and environmental conditions influence the biogeochemical responses of soils to drought and flooding" *Communications Earth and Environment*. [doi:10.1038/s43247-021-00198-4](https://doi.org/10.1038/s43247-021-00198-4)
+Jian J., Bond-Lamberty B., Hao D., Sulman B.N., **Patel K.F.**, Zheng J., Dorheim K., Pennington S.C., Hartman M.D., Warner D., & Wieder W.R. "Leveraging observed soil heterotrophic respiration fluxes as a novel constraint on global-scale models". *Global Change Biology*. [doi:10.1111/gcb.15795](https://doi.org/10.1111/gcb.15795). 
 
 
-**Patel K.F.**, Fernandez I.J., Nelson S.J., Norton S.A., Spencer S.J. "The Bear Brook Watershed in Maine: Multi-decadal whole-watershed experimental acidification". *Hydrological Processes*. [doi:10.1002/hyp.14147](https://doi.org/10.1002/hyp.14147)
+**Patel K.F.**, Fansler S.J., Campbell T.P., Bond-Lamberty B., Smith A.P., RoyChowdhury T., McCue L.A., Varga T., & Bailey V.L. "Soil texture and environmental conditions influence the biogeochemical responses of soils to drought and flooding" *Communications Earth and Environment*. [doi:10.1038/s43247-021-00198-4](https://doi.org/10.1038/s43247-021-00198-4). *[VIEW PDF](https://github.com/kaizadp/kaizadp.github.io/blob/master/pdfs/Patel2021_3Soils_drought_flood.pdf)*
 
 
-**Patel K.F.**, Myers-Pigg A., Bond-Lamberty B., Fansler S.J., Norris C.G., McKever S.A., Zheng J., Rod. K.A., & Bailey V.L. "Soil carbon dynamics during drying vs. rewetting: Importance of antecedent moisture conditions." *Soil Biology and Biochemistry*. [doi:10.1016/j.soilbio.2021.108165](https://doi.org/10.1016/j.soilbio.2021.108165)
+**Patel K.F.**, Fernandez I.J., Nelson S.J., Norton S.A., Spencer S.J. "The Bear Brook Watershed in Maine: Multi-decadal whole-watershed experimental acidification". *Hydrological Processes*. [doi:10.1002/hyp.14147](https://doi.org/10.1002/hyp.14147). *[VIEW PDF](https://github.com/kaizadp/kaizadp.github.io/blob/master/pdfs/Patel%202021.%20BBWM%20data%20note%20HyP.pdf)*
 
 
-**Patel K.F.**, Tejnecky V., Ohno T., Bailey V.L., Sleighter R.L., & Hatcher P.G.. "Reactive oxygen species alter chemical composition and adsorptive fractionation of soil-derived organic matter." *Geoderma*. [doi:10.1016/j.geoderma.2020.114805](https://doi.org/10.1016/j.geoderma.2020.114805)
+**Patel K.F.**, Myers-Pigg A., Bond-Lamberty B., Fansler S.J., Norris C.G., McKever S.A., Zheng J., Rod. K.A., & Bailey V.L. "Soil carbon dynamics during drying vs. rewetting: Importance of antecedent moisture conditions." *Soil Biology and Biochemistry*. [doi:10.1016/j.soilbio.2021.108165](https://doi.org/10.1016/j.soilbio.2021.108165). *[VIEW PDF](https://github.com/kaizadp/kaizadp.github.io/blob/master/pdfs/Patel%202021.%20Soil%20carbon%20hysteresis%20antecedent%20moisture.pdf)*
+
+
+**Patel K.F.**, Tejnecky V., Ohno T., Bailey V.L., Sleighter R.L., & Hatcher P.G.. "Reactive oxygen species alter chemical composition and adsorptive fractionation of soil-derived organic matter." *Geoderma*. [doi:10.1016/j.geoderma.2020.114805](https://doi.org/10.1016/j.geoderma.2020.114805). *[VIEW PDF](https://github.com/kaizadp/kaizadp.github.io/blob/master/pdfs/Patel%202020.%20Fenton%20SOM%20adsorption.pdf)*
 
 
 ### 2020
