@@ -5,13 +5,19 @@ title: "Publications"
 
 ### 2021
 
-**Patel K.F.**, Tatariw C., MacRae J.D., Ohno T., Nelson S.J., & Fernandez I.J. "Repeated freeze-thaw cycles increase extractable, but not total, carbon and nitrogen in a Maine coniferous soil". *Geoderma*.
+**Patel K.F.**, Smith A.P., Bond-Lamberty B., Fansler S.J., Tfaily M.M., Bramer L., Varga T., Bailey V.L. "Spatial access and resource limitations control carbon mineralization in soils". *Soil Biology and Biochemistry*. [doi:10.1016/j.soilbio.2021.108427](https://doi.org/10.1016/j.soilbio.2021.108427)
+
+
+**Patel K.F.**, Tatariw C., MacRae J.D., Ohno T., Nelson S.J., & Fernandez I.J. "Repeated freeze-thaw cycles increase extractable, but not total, carbon and nitrogen in a Maine coniferous soil". *Geoderma*. [doi:10.1016/j.geoderma.2021.115353](https://doi.org/10.1016/j.geoderma.2021.115353)
 
 
 Jian J., Bond-Lamberty B., Hao D., Sulman B.N., **Patel K.F.**, Zheng J., Dorheim K., Pennington S.C., Hartman M.D., Warner D., & Wieder W.R. "Leveraging observed soil heterotrophic respiration fluxes as a novel constraint on global-scale models". *Global Change Biology*. [doi:10.1111/gcb.15795](https://doi.org/10.1111/gcb.15795)
 
 
 **Patel K.F.**, Fansler S.J., Campbell T.P., Bond-Lamberty B., Smith A.P., RoyChowdhury T., McCue L.A., Varga T., & Bailey V.L. "Soil texture and environmental conditions influence the biogeochemical responses of soils to drought and flooding" *Communications Earth and Environment*. [doi:10.1038/s43247-021-00198-4](https://doi.org/10.1038/s43247-021-00198-4)
+
+
+**Patel K.F.**, Fernandez I.J., Nelson S.J., Norton S.A., Spencer S.J. "The Bear Brook Watershed in Maine: Multi-decadal whole-watershed experimental acidification". *Hydrological Processes*. [doi:10.1002/hyp.14147](https://doi.org/10.1002/hyp.14147)
 
 
 **Patel K.F.**, Myers-Pigg A., Bond-Lamberty B., Fansler S.J., Norris C.G., McKever S.A., Zheng J., Rod. K.A., & Bailey V.L. "Soil carbon dynamics during drying vs. rewetting: Importance of antecedent moisture conditions." *Soil Biology and Biochemistry*. [doi:10.1016/j.soilbio.2021.108165](https://doi.org/10.1016/j.soilbio.2021.108165)
