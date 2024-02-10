@@ -3,6 +3,33 @@ layout: post
 title: "Publications"
 ---
 
+### 2024
+
+Morris KA, Smith M, Bailey VL, Bittencourt-Peixoto R, Day DJ, Hamovit N, Hopple AM, Lee J, **Patel KF**, Regier P, Wilson SJ, Yarwood SA, Megonigal JP, Bond-Lamberty B. Methane flux from transplanted soil monoliths depends on moisture, but not origin. *Soil Biology and Biochemistry*. https://doi.org/10.1016/j.soilbio.2023.109296.
+
+
+### 2023
+
+Regier P, Ward ND, Izquierdo A, Baldwin AH, Day D, McElhinny J, **Patel KF**, Vargas R, Zheng J, EXCHANGE Consortium, Myers-Pigg A. Coastal inundation regime moderates the short-term effects of sediment and soil additions on seawater oxygen and greenhouse gas dynamics: a microcosm experiment. *Frontiers in Marine Science*. [https://doi.org/10.3389/fmars.2023.1308590]().
+
+**Patel KF**, Myers-Pigg A, Bond‐Lamberty B, Barnes ME. nmrrr: A Reproducible Workflow for Binning and Visualizing NMR Spectra From Environmental Samples. *JGR Biogeosciences*. https://doi.org/10.1029/2023JG007768.
+
+Morris KA, Bond‐Lamberty BP, Day DJ, **Patel KF**, Pennington SC, Ward ND, von Fischer JC. PoolDilutionR: An R package for easy optimization of isotope pool dilution calculations. *Methods in Ecology and Evolution*. https://doi.org/10.1111/2041-210X.14223.
+
+Rooney EC, Bailey VL, **Patel KF**, Kholodov A, Golightly H, Lybrand RA. Topography and canopy cover influence soil organic carbon composition and distribution across a forested hillslope in the discontinuous permafrost zone. *Permafrost and Periglacial Processes*. https://doi.org/10.1002/ppp.2200.
+
+Myers-Pigg A, Pennington SC, Homolka KK, Lewis AM, Otenburg O, **Patel KF**, Regier P, et al. Biogeochemistry of soils, sediments, and surface waters across the upland to wetland gradient of coastal interfaces. *Scientific Data*. https://doi.org/10.1038/s41597-023-02548-7.
+
+**Patel KF**, Bond-Lamberty B, Jian J, Morris KA, McKever SA, Norris CG, Zheng J, Bailey VL. Carbon flux estimates are sensitive to data source: a comparison of field and lab temperature sensitivity data. *Environmental Research Letters*. https://doi.org/10.1088/1748-9326/ac9aca.
+
+
+### 2022 
+
+Rooney EC, Bailey VL, **Patel KF**, Possinger AR, Gallo AC, Bergmann M, SanClements M, Lybrand RA. The Impact of Freeze‐Thaw History on Soil Carbon Response to Experimental Freeze‐Thaw Cycles. *JGR Biogeosciences*. https://doi.org/10.1029/2022JG006889. 
+
+Rooney EC, Bailey VL, **Patel KF**, Dragila M, Battu AK, Buchko AC, Gallo AC, Hatten J, Possinger AR, Qafoku O, Reno LR, SanClements M, Varga T, Lybrand RA. Soil pore network response to freeze-thaw cycles in permafrost aggregates. *Geoderma*. https://doi.org10.1016/j.geoderma.2021.115674.
+
+
 ### 2021
 
 **Patel K.F.**, Smith A.P., Bond-Lamberty B., Fansler S.J., Tfaily M.M., Bramer L., Varga T., Bailey V.L. "Spatial access and resource limitations control carbon mineralization in soils". *Soil Biology and Biochemistry*. [doi:10.1016/j.soilbio.2021.108427](https://doi.org/10.1016/j.soilbio.2021.108427). *[VIEW PDF](https://github.com/kaizadp/kaizadp.github.io/blob/master/pdfs/Patel2021_SpatialAccess.pdf)*
