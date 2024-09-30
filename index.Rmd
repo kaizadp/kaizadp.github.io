@@ -8,7 +8,7 @@ links:
   - label: GitHub
     url: "https://github.com/kaizadp"
   - label: Google Scholar
-    url: "https://scholar.google.com/citations?user=rGy8rsEAAAAJ"
+    url: "https://scholar.google.com/citations?user=1igTbSMAAAAJ&hl=en"
   - label: ORCID
     url: "https://orcid.org/0000-0001-6437-7809"
 site: distill::distill_website
@@ -20,7 +20,8 @@ editor_options:
 ---
 
 I am a soil scientist studying biogeochemical (carbon and nitrogen) dynamics in terrestrial ecosystems across temporal and spatial scales. 
-My work focuses on soil and ecosystem responses to environmental change and disturbances such as ecosystem acidification, shifting moisture regimes, and warming winters. 
+My work focuses on soil and ecosystem responses to environmental change and disturbances such as coastal change, ecosystem acidification, 
+shifting moisture regimes, and warming winters. 
 
 
 ### #soilnotdirt
