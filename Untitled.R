@@ -1,5 +1,6 @@
 postcards::create_postcard("home_trestles.Rmd", template = "trestles")
 library(rmarkdown)
+render_site("index.Rmd")
 render_site("appointments.Rmd")
 render_site("presentations.Rmd")
 render_site("publications.Rmd")

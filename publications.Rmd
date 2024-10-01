@@ -5,6 +5,12 @@ title: "Publications"
 
 ### 2024
 
+Machado-Silva F, Weintraub MN, Ward ND, Doro KO, Regier PJ, Ehosioke S, Thomas SP, Peixoto RB, Sandoval L, Forbrich I, Kemner KM, O'Loughlin EJ, Stetten L, Spanbauer T, Bridgeman TB, O'Meara T, Rod KA, **Patel KF**, McDowell NG, Megonigal JP, Rich RL, Bailey VL. 2024. Short-Term Groundwater Level Fluctuations Drive Subsurface Redox Variability. *Environmental Science and Technology*. https://doi.org/10.1021/acs.est.4c01115.
+
+Niu S, Chen W, Liang LL, Sierra CA, Xia J, Wang S, Heskel M, **Patel KF**, Bond-Lamberty B, Wang J, Yvon-Durocher G, Kirschbaum MUF, Atkin OK, Huang Y, Yu G, Luo Y. 2024. Temperature responses of ecosystem respiration. *Nature Reviews Earth and Environment* https://doi.org/10.1038/s43017-024-00569-3.
+
+**Patel KF**, Rod KA, Zheng J, Regier P, Machado-Silva F, Bond-Lamberty B, Chen X, Day DJ, Doro KO, Kaufman MH, Kovach M, McDowell N, McKever SA, Megonigal JP, Norris CG, O'Meara T, Peixoto RB, Rich R, Thornton P, Kemner KM, Ward ND, Weintraub MN, Bailey VL. 2024. Time to anoxia: Observations and predictions of oxygen drawdown following coastal flood events. *Geoderma*. https://doi.org/10.1016/j.geoderma.2024.116854. 
+
 Morris KA, Smith M, Bailey VL, Bittencourt-Peixoto R, Day DJ, Hamovit N, Hopple AM, Lee J, **Patel KF**, Regier P, Wilson SJ, Yarwood SA, Megonigal JP, Bond-Lamberty B. Methane flux from transplanted soil monoliths depends on moisture, but not origin. *Soil Biology and Biochemistry*. https://doi.org/10.1016/j.soilbio.2023.109296.
 
 

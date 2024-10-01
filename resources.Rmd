@@ -3,16 +3,19 @@ layout: post
 title: "Resources"
 ---
 
-### ShinySoils
+### [ShinySoils](https://kaizadp.shinyapps.io/shinysoils/)
 
 
-### nmrrr
+### [nmrrr](https://cran.r-project.org/web/packages/nmrrr/index.html)
 
 
-### fticrrr
+### [fticrrr](https://github.com/kaizadp/fticrrr)
 
 
-### introductoryR
+### [introductoryR](https://github.com/kaizadp/introductoryR)
 
 
-### soilpalettes
+### [soilpalettes](https://github.com/kaizadp/soilpalettes)
+
+
+### [LabSigns@PNNL](https://www.pnnl.gov/labsigns)

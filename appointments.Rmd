@@ -2,7 +2,6 @@
 layout: post
 title: "About Me"
 ---
-x
 
 ### Education
 **Ph. D., Ecology and Environmental Science — Forest Soils**  (2018)  
@@ -21,9 +20,17 @@ University of Mumbai, Bombay College of Pharmacy
 
 ### Appointments
 
+**Earth Scientist-III**
+*Pacific Northwest National Laboratory*  
+2024-present
+
+**Earth Scientist-II**
+*Pacific Northwest National Laboratory*  
+2021-2024
+
 **Postdoctoral Research Associate**  
 *Pacific Northwest National Laboratory*  
-2019-present	
+2019-2021	
 
 
 **Researcher**  
