@@ -3,7 +3,33 @@ layout: post
 title: "Publications"
 ---
 
+### 2026
+
+Ballantyne A, Bond‑Lamberty B, Endsley A, Fluet‑Chouinard É, Liu Z, **Patel KF**, Smith E, Vargas R, Zhao B. 2026. Evaluation of top‑down and bottom‑up global terrestrial respiration estimates and their mismatch with model simulations. *Global Biogeochemical Cycles*. https://doi.org/10.1029/2025GB008544
+
+Malhotra A, von Fromm SF, Bond‑Lamberty B, Doetterl S, Georgiou K, Graham EB, Heckman KA, Jia R, **Patel KF**, Rod KA, et al. 2026. Do we have globally representative data to understand soil processes? *Biogeochemistry.* https://doi.org/10.1007/s10533-025-01045-2
+
+Rod KA, Doro KO, **Patel KF**, Kemner KM, Wilson SJ, Megonigal JP, Ward ND, Weintraub MN, Bailey VL. 2026. Alternating salt and freshwater floods of coastal soils impact soil structure, hydraulic properties, and oxygen dynamics. *Vadose Zone Journal*. https://doi.org/10.1002/vzj2.70073
+
+
+
+### 2025
+
+Reid DJ, **Patel KF**, Melville AM, Bailey VL, Omberg KM, Lamoureux LR. 2025. Environmental life cycle of fentanyl: From the cradle to an unknown grave. *Journal of Environmental Quality*. https://doi.org/10.1002/jeq2.20420
+
+Stegen J et al. 2025. Reviews and syntheses: Variable inundation across Earth's terrestrial ecosystems. *Biogeosciences.* https://doi.org/10.5194/bg-22-995-2025
+
+Regier P et al. 2025. Short‑term experimental flooding impacts soil biogeochemistry but not aboveground vegetation in a coastal forest. *PNAS.* https://doi.org/10.1073/pnas.2511756122
+
+Ward ND et al. 2025. A synoptic system for capturing ecosystem control points across terrestrial‑aquatic interfaces. *JGR Biogeosciences*. https://doi.org/10.1029/2024JG009335
+
+**Patel KF**, Malhotra A, Norris CG, McKever SA, Fields DM, Musci JI, Bandopadhyay S, Bond‑Lamberty B, Chen X, Day DJ, et al. 2025. Transition zones at the changing coastal terrestrial‑aquatic interface. *JGR Biogeosciences*. https://doi.org/10.1029/2025JG008978
+
+
+
 ### 2024
+
+Smith AP, Rod KA, Campbell T, **Patel KF**, Dohnalkova A, Tfaily M, Renteria L, Bailey VL, Renslow R. 2024. Moisture‑mineral interactions drive bacterial and organic matter turnover in glacier‑sourced riparian sediments. *Soil Biology & Biochemistry*. https://doi.org/10.1016/j.soilbio.2024.109617
 
 Machado-Silva F, Weintraub MN, Ward ND, Doro KO, Regier PJ, Ehosioke S, Thomas SP, Peixoto RB, Sandoval L, Forbrich I, Kemner KM, O'Loughlin EJ, Stetten L, Spanbauer T, Bridgeman TB, O'Meara T, Rod KA, **Patel KF**, McDowell NG, Megonigal JP, Rich RL, Bailey VL. 2024. Short-Term Groundwater Level Fluctuations Drive Subsurface Redox Variability. *Environmental Science and Technology*. https://doi.org/10.1021/acs.est.4c01115.
 
